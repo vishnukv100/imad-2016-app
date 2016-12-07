@@ -13,7 +13,7 @@ app.get('/article-one',functio(req,res){
    res.send('article onse is requested and served here') ;
 });
 app.get('/article-two',functio(req,res){
-   res.send('article onse is requested and served here') ;
+   res.send('article onse is requested and served here')) ;
 });
 app.get('/article-three',functio(req,res){
    res.send('article onse is requested and served here') ;
